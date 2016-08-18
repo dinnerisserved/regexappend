@@ -1,0 +1,15 @@
+A simple Python script that uses regex to find a string and append the result to a url. 
+
+The regex can be changed to suit what you are looking for. 
+
+A simple example can be: 
+
+1) You find a string of text based on the regular expression in this script (or make one yourself)
+
+2) Perform the necesarry operations on it (simple arithmetics)
+
+3) Append the result to your url of choice
+
+4) Open the new url
+
+Hope someone finds this useful! 
